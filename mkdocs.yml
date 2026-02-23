@@ -25,3 +25,5 @@ nav:
   - Examples:
       - Mesh Example Simple: examples/wireframe-simple-EXAMPLE.md
       - Mesh Example: examples/wireframe-EXAMPLE.md
+  - Abstract:
+      - Project Overview: api/abstract.md
