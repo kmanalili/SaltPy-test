@@ -19,6 +19,7 @@ nav:
       - Set-Up: setup/installation.md
   - API Documentation:
       - SonarPy: api/SonarPy.md
+      - SonarPlots: api/SonarPlots.md
       - SonarDXF: api/SonarDXF.md
       - SonarPyVista: api/SonarPyVista.md
   - Examples:
