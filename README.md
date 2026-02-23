@@ -1,7 +1,7 @@
 
 # Project Documentation
 
-This repository contains the test documentation for **SaltPy**, built using [MkDocs](https://www.mkdocs.org/) and hosted on [Read the Docs](https://readthedocs.org/).
+This repository contains the test documentation for **SaltPy Public**, built using [MkDocs](https://www.mkdocs.org/) and hosted on [Read the Docs](https://readthedocs.org/).
 
 ## Documentation Overview
 

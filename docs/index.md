@@ -4,6 +4,9 @@ This is the homepage for the SaltPy documentation.
 
 SaltPy is a Python package for the processing, analysis, and visualization of sonar and geospatial data related to salt caverns.
 
+
+- [Full abstract](api/abstract.md)
+
 ## Getting Started
 
 - [Installation & Setup](setup/installation.md)  
